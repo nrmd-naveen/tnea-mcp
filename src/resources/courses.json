@@ -1,0 +1,106 @@
+[
+  {
+    "branCode": "EL",
+    "branName": "Electronics Engineering (VLSI Design and Technology) (SS)"
+  },
+  {
+    "branCode": "EE",
+    "branName": "ELECTRICAL AND ELECTRONICS ENGINEERING"
+  },
+  {
+    "branCode": "CS",
+    "branName": "COMPUTER SCIENCE AND ENGINEERING"
+  },
+  {
+    "branCode": "EC",
+    "branName": "ELECTRONICS AND COMMUNICATION ENGINEERING"
+  },
+  {
+    "branCode": "SC",
+    "branName": "Computer Science and Engineering (Cyber Security)"
+  },
+  {
+    "branCode": "IT",
+    "branName": "INFORMATION TECHNOLOGY"
+  },
+  {
+    "branCode": "EF",
+    "branName": "Electrical and Computer Engineering"
+  },
+  {
+    "branCode": "AM",
+    "branName": "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)"
+  },
+  {
+    "branCode": "AD",
+    "branName": "Artificial Intelligence and Data Science"
+  },
+  {
+    "branCode": "CB",
+    "branName": "COMPUTER SCIENCE AND BUSSINESS SYSTEM"
+  },
+  {
+    "branCode": "CO",
+    "branName": "COMPUTER AND  COMMUNICATION ENGINEERING"
+  },
+  {
+    "branCode": "EI",
+    "branName": "ELECTRONICS AND INSTRUMENTATION ENGINEERING"
+  },
+  {
+    "branCode": "AL",
+    "branName": "Artificial Intelligence and Machine Learning"
+  },
+  {
+    "branCode": "CD",
+    "branName": "COMPUTER SCIENCE AND DESIGN"
+  },
+  {
+    "branCode": "EA",
+    "branName": "Electronics and Communication (Advanced Communication Technology)"
+  },
+  {
+    "branCode": "EV",
+    "branName": "Electronics Engineering (VLSI Design and Technology)"
+  },
+  {
+    "branCode": "CI",
+    "branName": "Computer Science and Engineering (Internet of Things)"
+  },
+  {
+    "branCode": "RI",
+    "branName": "ROBOTICS AND ARTIFICIAL INTELLIGENCE"
+  },
+  {
+    "branCode": "CY",
+    "branName": "Cyber Security"
+  },
+  {
+    "branCode": "CF",
+    "branName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)"
+  },
+  {
+    "branCode": "CA",
+    "branName": "COMPUTER SCIENCE AND ENGINEERING(ARTIFICIAL INTELLIGENCE)"
+  },
+  {
+    "branCode": "CG",
+    "branName": "Computer Science and Engineering (Artificial Intelligence and Machine Learning) (SS)"
+  },
+  {
+    "branCode": "XS",
+    "branName": "COMPUTER SCIENCE AND ENGINEERING (TAMIL)"
+  },
+  {
+    "branCode": "EX",
+    "branName": "Electronics and Computer Engineering"
+  },
+  {
+    "branCode": "TS",
+    "branName": "Computer Science and Technology"
+  },
+  {
+    "branCode": "SB",
+    "branName": "Computer Science and Engineering (Internet of Things and Cyber Security including Block Chain Technology)"
+  }
+]

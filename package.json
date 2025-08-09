@@ -1,0 +1,27 @@
+{
+  "name": "tnea-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A TNEA choice filling MCP server",
+  "main": "dist/index.js",
+  "bin": {
+    "tnea-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js",
+    "prepare": "npm run build"
+  },
+  "keywords": ["mcp", "server", "tnea"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
